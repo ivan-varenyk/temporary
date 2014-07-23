@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="appLabel">Mobile Application</string>
+  <string name="appLabel">Мобільний додаток</string>
 
   <!-- Official label of the phone app -->
-  <string name="appLabel-Phone">Phone</string>
+  <string name="appLabel-Phone">Телефон</string>
 </resources>
