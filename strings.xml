@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="appLabel" product="tablet">Mobile Application</string>
-    
-    <!-- Official label of the phone app-->
-    <string name="appLabel-Phone" product="default">Phone</string>
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="appLabel">Mobile Application</string>
+
+  <!-- Official label of the phone app -->
+  <string name="appLabel-Phone">Phone</string>
 </resources>
